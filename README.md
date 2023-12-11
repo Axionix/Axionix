@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Axionix
 - 👀 I’m interested in computers
 - 🌱 I’m currently learning python, c# and blender
-- 📫 You can reach me here : salutoi@mail.ru
+- 📫 You can reach me here : anv.sult@gmail.com
 
 <!---
 Axionix/Axionix is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
