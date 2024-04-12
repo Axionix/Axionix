@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Axionix
-- 👀 I am a computer science at Champlain College St-Lambert
+- 👀 I am a passionate computer science at Champlain College St-Lambert
 - 🌱 I’m currently learning react, java, and linux
 - 📫 You can reach me here : anv.sult@gmail.com
 
