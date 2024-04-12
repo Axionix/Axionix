@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Axionix
-- 👀 I’m interested in computers
-- 🌱 I’m currently learning python, c# and blender
+- 👀 I am a computer science at Champlain College St-Lambert
+- 🌱 I’m currently learning react, java, and linux
 - 📫 You can reach me here : anv.sult@gmail.com
 
 <!---
