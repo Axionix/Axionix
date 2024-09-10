@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Axionix
+- 👋 Hi, I’m Anvar
 - 👀 I am a passionate computer science at Champlain College St-Lambert
-- 🌱 I’m currently learning react, java, and linux
+- 🌱 I’m currently learning databases, java web, and .NET
 - 📫 You can reach me here : anv.sult@gmail.com
 
 <!---
